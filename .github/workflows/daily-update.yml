@@ -1,0 +1,71 @@
+name: 每日基金数据更新与分析
+
+on:
+  schedule:
+    # 北京时间每个交易日 18:00 执行 (UTC+8 = 10:00 UTC)
+    # 周一至周五
+    - cron: '0 10 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      run_ai:
+        description: '是否同时运行 AI 分析'
+        type: boolean
+        default: true
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install akshare pandas openai
+
+      - name: 抓取基金数据
+        run: python fetch_fund.py
+
+      - name: 提交数据更新
+        run: |
+          git config user.name "fund-bot"
+          git config user.email "fund-bot@github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "📊 自动更新基金数据 [$(date +'%Y-%m-%d')]"
+          git push
+
+  ai-analysis:
+    needs: fetch-data
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install openai
+
+      - name: AI 分析
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+        run: python ai_analysis.py
+
+      - name: 提交 AI 报告
+        run: |
+          git config user.name "fund-bot"
+          git config user.email "fund-bot@github.com"
+          git add ai_report.json
+          git diff --staged --quiet || git commit -m "🤖 自动生成AI分析报告 [$(date +'%Y-%m-%d')]"
+          git push
