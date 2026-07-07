@@ -1,0 +1,159 @@
+{
+  "update_time": "2026-07-07 18:00:00",
+  "summary": {
+    "total_value": 250800,
+    "daily_change": 1245.60,
+    "daily_change_percent": 0.50,
+    "total_return": 10800,
+    "total_return_percent": 4.50,
+    "fund_count": 6,
+    "otc_count": 3,
+    "etf_count": 3
+  },
+  "funds": [
+    {
+      "code": "021031",
+      "name": "天弘中证红利低波100联接C",
+      "type": "otc",
+      "net_value": 1.2456,
+      "acc_net_value": 1.2456,
+      "daily_change_percent": 0.32,
+      "week_change": 0.85,
+      "month_change": 2.10,
+      "position_weight": 20,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 1.2200},
+        {"date": "2026-06-10", "value": 1.2150},
+        {"date": "2026-06-13", "value": 1.2180},
+        {"date": "2026-06-16", "value": 1.2220},
+        {"date": "2026-06-19", "value": 1.2190},
+        {"date": "2026-06-22", "value": 1.2250},
+        {"date": "2026-06-25", "value": 1.2300},
+        {"date": "2026-06-28", "value": 1.2350},
+        {"date": "2026-07-01", "value": 1.2400},
+        {"date": "2026-07-04", "value": 1.2416},
+        {"date": "2026-07-07", "value": 1.2456}
+      ]
+    },
+    {
+      "code": "012349",
+      "name": "天弘中证光伏产业指数C",
+      "type": "otc",
+      "net_value": 0.8921,
+      "acc_net_value": 0.8921,
+      "daily_change_percent": -0.45,
+      "week_change": -1.20,
+      "month_change": -3.50,
+      "position_weight": 15,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 0.9245},
+        {"date": "2026-06-10", "value": 0.9200},
+        {"date": "2026-06-13", "value": 0.9180},
+        {"date": "2026-06-16", "value": 0.9150},
+        {"date": "2026-06-19", "value": 0.9080},
+        {"date": "2026-06-22", "value": 0.9120},
+        {"date": "2026-06-25", "value": 0.9050},
+        {"date": "2026-06-28", "value": 0.9000},
+        {"date": "2026-07-01", "value": 0.8960},
+        {"date": "2026-07-04", "value": 0.8961},
+        {"date": "2026-07-07", "value": 0.8921}
+      ]
+    },
+    {
+      "code": "006328",
+      "name": "易方达中概互联网ETF联接C",
+      "type": "otc",
+      "net_value": 1.5234,
+      "acc_net_value": 1.5234,
+      "daily_change_percent": 1.25,
+      "week_change": 2.80,
+      "month_change": 5.60,
+      "position_weight": 18,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 1.4420},
+        {"date": "2026-06-10", "value": 1.4500},
+        {"date": "2026-06-13", "value": 1.4600},
+        {"date": "2026-06-16", "value": 1.4750},
+        {"date": "2026-06-19", "value": 1.4900},
+        {"date": "2026-06-22", "value": 1.4850},
+        {"date": "2026-06-25", "value": 1.5000},
+        {"date": "2026-06-28", "value": 1.5100},
+        {"date": "2026-07-01", "value": 1.4980},
+        {"date": "2026-07-04", "value": 1.5046},
+        {"date": "2026-07-07", "value": 1.5234}
+      ]
+    },
+    {
+      "code": "159570",
+      "name": "港股通互联网ETF",
+      "type": "etf",
+      "net_value": 1.0812,
+      "acc_net_value": 1.0812,
+      "daily_change_percent": 0.88,
+      "week_change": 2.15,
+      "month_change": 4.30,
+      "position_weight": 17,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 1.0360},
+        {"date": "2026-06-10", "value": 1.0400},
+        {"date": "2026-06-13", "value": 1.0480},
+        {"date": "2026-06-16", "value": 1.0550},
+        {"date": "2026-06-19", "value": 1.0520},
+        {"date": "2026-06-22", "value": 1.0600},
+        {"date": "2026-06-25", "value": 1.0580},
+        {"date": "2026-06-28", "value": 1.0700},
+        {"date": "2026-07-01", "value": 1.0680},
+        {"date": "2026-07-04", "value": 1.0718},
+        {"date": "2026-07-07", "value": 1.0812}
+      ]
+    },
+    {
+      "code": "520920",
+      "name": "恒生科技ETF",
+      "type": "etf",
+      "net_value": 1.1567,
+      "acc_net_value": 1.1567,
+      "daily_change_percent": 0.65,
+      "week_change": 1.90,
+      "month_change": 3.80,
+      "position_weight": 18,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 1.1150},
+        {"date": "2026-06-10", "value": 1.1200},
+        {"date": "2026-06-13", "value": 1.1250},
+        {"date": "2026-06-16", "value": 1.1350},
+        {"date": "2026-06-19", "value": 1.1300},
+        {"date": "2026-06-22", "value": 1.1400},
+        {"date": "2026-06-25", "value": 1.1380},
+        {"date": "2026-06-28", "value": 1.1480},
+        {"date": "2026-07-01", "value": 1.1450},
+        {"date": "2026-07-04", "value": 1.1492},
+        {"date": "2026-07-07", "value": 1.1567}
+      ]
+    },
+    {
+      "code": "513050",
+      "name": "中概互联网ETF",
+      "type": "etf",
+      "net_value": 1.3256,
+      "acc_net_value": 1.3256,
+      "daily_change_percent": 0.42,
+      "week_change": 1.55,
+      "month_change": 3.20,
+      "position_weight": 12,
+      "nav_history": [
+        {"date": "2026-06-07", "value": 1.2850},
+        {"date": "2026-06-10", "value": 1.2900},
+        {"date": "2026-06-13", "value": 1.2950},
+        {"date": "2026-06-16", "value": 1.3050},
+        {"date": "2026-06-19", "value": 1.3000},
+        {"date": "2026-06-22", "value": 1.3100},
+        {"date": "2026-06-25", "value": 1.3080},
+        {"date": "2026-06-28", "value": 1.3180},
+        {"date": "2026-07-01", "value": 1.3150},
+        {"date": "2026-07-04", "value": 1.3200},
+        {"date": "2026-07-07", "value": 1.3256}
+      ]
+    }
+  ]
+}
