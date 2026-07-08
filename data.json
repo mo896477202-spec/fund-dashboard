@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-07-07 14:42:27",
+  "update_time": "2026-07-08 11:45:08",
   "summary": {
-    "total_value": 2941.0,
-    "daily_change": -36.94,
-    "daily_change_percent": -1.26,
+    "total_value": 2928.5,
+    "daily_change": -16.87,
+    "daily_change_percent": -0.58,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,16 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.5366,
-      "acc_net_value": 1.5366,
-      "daily_change_percent": -3.53,
-      "week_change": 9.61,
-      "month_change": 8.34,
+      "net_value": 1.5225,
+      "acc_net_value": 1.5225,
+      "daily_change_percent": -0.92,
+      "week_change": 8.69,
+      "month_change": 8.88,
       "nav_history": [
-        {
-          "date": "413",
-          "value": 1.802
-        },
         {
           "date": "414",
           "value": 1.8769
@@ -500,6 +496,10 @@
         {
           "date": "532",
           "value": 1.5366
+        },
+        {
+          "date": "533",
+          "value": 1.5225
         }
       ]
     },
@@ -999,16 +999,12 @@
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
       "type": "otc",
-      "net_value": 0.7941,
-      "acc_net_value": 0.7941,
-      "daily_change_percent": 2.74,
-      "week_change": 5.6,
-      "month_change": -10.46,
+      "net_value": 0.7957,
+      "acc_net_value": 0.7957,
+      "daily_change_percent": 0.2,
+      "week_change": 5.07,
+      "month_change": -9.0,
       "nav_history": [
-        {
-          "date": "1671",
-          "value": 1.1586
-        },
         {
           "date": "1672",
           "value": 1.1663
@@ -1484,6 +1480,10 @@
         {
           "date": "1790",
           "value": 0.7941
+        },
+        {
+          "date": "1791",
+          "value": 0.7957
         }
       ]
     },
