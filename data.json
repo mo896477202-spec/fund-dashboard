@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-07-08 11:45:08",
+  "update_time": "2026-07-10 12:23:15",
   "summary": {
-    "total_value": 2928.5,
-    "daily_change": -16.87,
-    "daily_change_percent": -0.58,
+    "total_value": 3040.3,
+    "daily_change": 96.99,
+    "daily_change_percent": 3.19,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,20 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.5225,
-      "acc_net_value": 1.5225,
-      "daily_change_percent": -0.92,
-      "week_change": 8.69,
-      "month_change": 8.88,
+      "net_value": 1.5586,
+      "acc_net_value": 1.5586,
+      "daily_change_percent": 3.03,
+      "week_change": 0.36,
+      "month_change": 15.2,
       "nav_history": [
-        {
-          "date": "414",
-          "value": 1.8769
-        },
-        {
-          "date": "415",
-          "value": 1.8718
-        },
         {
           "date": "416",
           "value": 1.8789
@@ -500,6 +492,14 @@
         {
           "date": "533",
           "value": 1.5225
+        },
+        {
+          "date": "534",
+          "value": 1.5127
+        },
+        {
+          "date": "535",
+          "value": 1.5586
         }
       ]
     },
@@ -507,20 +507,12 @@
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
       "type": "otc",
-      "net_value": 0.6103,
-      "acc_net_value": 0.6103,
-      "daily_change_percent": -0.73,
-      "week_change": 0.63,
-      "month_change": -9.25,
+      "net_value": 0.6393,
+      "acc_net_value": 0.6393,
+      "daily_change_percent": 0.05,
+      "week_change": 5.9,
+      "month_change": -0.68,
       "nav_history": [
-        {
-          "date": "1089",
-          "value": 0.8102
-        },
-        {
-          "date": "1090",
-          "value": 0.7984
-        },
         {
           "date": "1091",
           "value": 0.7906
@@ -992,6 +984,14 @@
         {
           "date": "1208",
           "value": 0.6103
+        },
+        {
+          "date": "1209",
+          "value": 0.639
+        },
+        {
+          "date": "1210",
+          "value": 0.6393
         }
       ]
     },
@@ -999,16 +999,12 @@
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
       "type": "otc",
-      "net_value": 0.7957,
-      "acc_net_value": 0.7957,
-      "daily_change_percent": 0.2,
-      "week_change": 5.07,
-      "month_change": -9.0,
+      "net_value": 0.8424,
+      "acc_net_value": 0.8424,
+      "daily_change_percent": 5.87,
+      "week_change": 10.59,
+      "month_change": -2.62,
       "nav_history": [
-        {
-          "date": "1672",
-          "value": 1.1663
-        },
         {
           "date": "1673",
           "value": 1.1452
@@ -1484,6 +1480,10 @@
         {
           "date": "1791",
           "value": 0.7957
+        },
+        {
+          "date": "1792",
+          "value": 0.8424
         }
       ]
     },
