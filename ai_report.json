@@ -1,81 +1,81 @@
 {
-  "generated_at": "2026-07-15 11:27:06",
-  "data_update_time": "2026-07-15 11:26:49",
-  "overview": "市场整体震荡，持仓基金表现分化，建议持有观望，关注ETF净值异常。",
+  "generated_at": "2026-07-16 11:37:47",
+  "data_update_time": "2026-07-16 11:37:24",
+  "overview": "今日市场普涨，红利低波和互联网板块表现强劲，但需警惕短期过热风险，建议持有为主，不追高。",
   "signals": [
     {
       "fund_code": "021031",
       "fund_name": "天弘中证红利低波100联接C",
       "signal": "hold",
-      "reason": "近1周上涨1.28%，近1月大涨14.22%，短期涨幅较大，存在回调风险，但红利低波策略长期稳健，建议持有观望。"
+      "reason": "近1周涨幅6.13%，近1月涨幅15%，短期涨幅较大，存在回调风险，建议持有观望，不追高。"
     },
     {
       "fund_code": "012349",
       "fund_name": "天弘中证光伏产业指数C",
       "signal": "hold",
-      "reason": "日涨跌0.13%，近1周上涨3.60%，近1月微涨0.21%，光伏板块近期反弹但趋势不明，估值适中，建议持有。"
+      "reason": "近1周涨幅0.05%，近1月涨幅0.36%，表现平淡，缺乏明确趋势，建议持有观望。"
     },
     {
       "fund_code": "006328",
       "fund_name": "易方达中概互联网ETF联接C",
       "signal": "hold",
-      "reason": "日跌0.19%，近1周上涨4.56%，近1月微涨0.39%，中概股近期反弹但波动较大，建议持有观望。"
+      "reason": "近1周涨幅1.08%，近1月涨幅1.30%，今日涨2.34%，短期反弹但趋势不明，建议持有。"
     },
     {
       "fund_code": "159570",
       "fund_name": "港股通互联网ETF",
       "signal": "hold",
-      "reason": "净值显示为0，近1周和近1月涨跌幅-100%，数据异常，可能为停牌或净值未更新，建议核实后操作，暂持观望。"
+      "reason": "数据缺失，无法判断趋势，建议持有观望。"
     },
     {
       "fund_code": "520920",
       "fund_name": "恒生科技ETF",
       "signal": "hold",
-      "reason": "净值显示为0，近1周和近1月涨跌幅-100%，数据异常，可能为停牌或净值未更新，建议核实后操作，暂持观望。"
+      "reason": "数据缺失，无法判断趋势，建议持有观望。"
     },
     {
       "fund_code": "513050",
       "fund_name": "中概互联网ETF",
       "signal": "hold",
-      "reason": "净值显示为0，近1周和近1月涨跌幅0%，数据异常，可能为停牌或净值未更新，建议核实后操作，暂持观望。"
+      "reason": "数据缺失，无法判断趋势，建议持有观望。"
     }
   ],
-  "risk_note": "注意ETF净值数据异常，可能因停牌或系统问题，需核实后再做决策。",
+  "risk_note": "红利低波基金短期涨幅过大，注意回调风险；互联网板块估值仍处于合理区间，但需关注政策变化。",
   "raw_funds_snapshot": [
     {
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
-      "net_value": 1.5562,
-      "daily_change_percent": -0.06,
-      "month_change": 14.22
+      "net_value": 1.6159,
+      "daily_change_percent": 3.84,
+      "month_change": 15.0
     },
     {
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
-      "net_value": 0.6323,
-      "daily_change_percent": 0.13,
-      "month_change": 0.21
+      "net_value": 0.6393,
+      "daily_change_percent": 1.11,
+      "month_change": 0.36
     },
     {
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
-      "net_value": 0.832,
-      "daily_change_percent": -0.19,
-      "month_change": 0.39
+      "net_value": 0.8515,
+      "daily_change_percent": 2.34,
+      "month_change": 1.3
     },
     {
       "code": "159570",
       "name": "港股通互联网ETF",
       "net_value": 0.0,
       "daily_change_percent": 0,
-      "month_change": -100.0
+      "month_change": 0
     },
     {
       "code": "520920",
       "name": "恒生科技ETF",
       "net_value": 0.0,
       "daily_change_percent": 0,
-      "month_change": -100.0
+      "month_change": 0
     },
     {
       "code": "513050",
