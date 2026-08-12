@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-08-11 10:46:47",
+  "update_time": "2026-08-12 10:57:50",
   "summary": {
-    "total_value": 3191.7,
-    "daily_change": 31.9,
-    "daily_change_percent": 1.0,
+    "total_value": 3170.6,
+    "daily_change": -20.58,
+    "daily_change_percent": -0.65,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,16 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.6258,
-      "acc_net_value": 1.6258,
-      "daily_change_percent": 0.72,
-      "week_change": 7.88,
-      "month_change": 7.48,
+      "net_value": 1.6313,
+      "acc_net_value": 1.6313,
+      "daily_change_percent": 0.34,
+      "week_change": 7.22,
+      "month_change": 4.66,
       "nav_history": [
-        {
-          "date": "437",
-          "value": 1.7681
-        },
         {
           "date": "438",
           "value": 1.8115
@@ -500,6 +496,10 @@
         {
           "date": "556",
           "value": 1.6258
+        },
+        {
+          "date": "557",
+          "value": 1.6313
         }
       ]
     },
@@ -507,16 +507,12 @@
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
       "type": "otc",
-      "net_value": 0.6616,
-      "acc_net_value": 0.6616,
-      "daily_change_percent": 1.18,
-      "week_change": 0.84,
-      "month_change": 3.49,
+      "net_value": 0.6495,
+      "acc_net_value": 0.6495,
+      "daily_change_percent": -1.83,
+      "week_change": -1.23,
+      "month_change": 1.85,
       "nav_history": [
-        {
-          "date": "1113",
-          "value": 0.7446
-        },
         {
           "date": "1114",
           "value": 0.7481
@@ -992,6 +988,10 @@
         {
           "date": "1232",
           "value": 0.6616
+        },
+        {
+          "date": "1233",
+          "value": 0.6495
         }
       ]
     },
@@ -999,16 +999,12 @@
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
       "type": "otc",
-      "net_value": 0.9043,
-      "acc_net_value": 0.9043,
-      "daily_change_percent": 1.37,
-      "week_change": -0.1,
-      "month_change": 8.35,
+      "net_value": 0.8898,
+      "acc_net_value": 0.8898,
+      "daily_change_percent": -1.6,
+      "week_change": -1.68,
+      "month_change": 6.56,
       "nav_history": [
-        {
-          "date": "1696",
-          "value": 1.0762
-        },
         {
           "date": "1697",
           "value": 1.0759
@@ -1484,6 +1480,10 @@
         {
           "date": "1815",
           "value": 0.9043
+        },
+        {
+          "date": "1816",
+          "value": 0.8898
         }
       ]
     },
@@ -1497,10 +1497,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-02-12",
-          "value": 1.622
-        },
         {
           "date": "2026-02-13",
           "value": 1.611
@@ -1968,6 +1964,10 @@
         {
           "date": "2026-08-11",
           "value": 1.473
+        },
+        {
+          "date": "2026-08-12",
+          "value": 1.459
         }
       ]
     },
@@ -1981,10 +1981,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-02-12",
-          "value": 0.826
-        },
         {
           "date": "2026-02-13",
           "value": 0.821
@@ -2452,6 +2448,10 @@
         {
           "date": "2026-08-11",
           "value": 0.715
+        },
+        {
+          "date": "2026-08-12",
+          "value": 0.708
         }
       ]
     },
@@ -2465,10 +2465,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-02-12",
-          "value": 1.395
-        },
         {
           "date": "2026-02-13",
           "value": 1.378
@@ -2936,6 +2932,10 @@
         {
           "date": "2026-08-11",
           "value": 1.16
+        },
+        {
+          "date": "2026-08-12",
+          "value": 1.135
         }
       ]
     }
