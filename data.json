@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-08-21 10:25:48",
+  "update_time": "2026-08-24 10:33:48",
   "summary": {
-    "total_value": 3143.6,
-    "daily_change": 70.26,
-    "daily_change_percent": 2.24,
+    "total_value": 3145.7,
+    "daily_change": 6.22,
+    "daily_change_percent": 0.2,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,16 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.6483,
-      "acc_net_value": 1.6483,
-      "daily_change_percent": 3.89,
-      "week_change": 1.22,
-      "month_change": 4.57,
+      "net_value": 1.6421,
+      "acc_net_value": 1.6421,
+      "daily_change_percent": -0.38,
+      "week_change": 3.02,
+      "month_change": 3.04,
       "nav_history": [
-        {
-          "date": "445",
-          "value": 1.7069
-        },
         {
           "date": "446",
           "value": 1.6531
@@ -500,6 +496,10 @@
         {
           "date": "564",
           "value": 1.6483
+        },
+        {
+          "date": "565",
+          "value": 1.6421
         }
       ]
     },
@@ -507,16 +507,12 @@
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
       "type": "otc",
-      "net_value": 0.6335,
-      "acc_net_value": 0.6335,
-      "daily_change_percent": 0.33,
-      "week_change": -1.83,
-      "month_change": -2.37,
+      "net_value": 0.6418,
+      "acc_net_value": 0.6418,
+      "daily_change_percent": 1.31,
+      "week_change": 1.18,
+      "month_change": 1.87,
       "nav_history": [
-        {
-          "date": "1121",
-          "value": 0.7038
-        },
         {
           "date": "1122",
           "value": 0.6844
@@ -992,6 +988,10 @@
         {
           "date": "1240",
           "value": 0.6335
+        },
+        {
+          "date": "1241",
+          "value": 0.6418
         }
       ]
     },
