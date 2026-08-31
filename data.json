@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-08-28 21:04:23",
+  "update_time": "2026-08-31 17:22:28",
   "summary": {
-    "total_value": 3118.2,
-    "daily_change": -30.76,
-    "daily_change_percent": -0.99,
+    "total_value": 3064.4,
+    "daily_change": -51.81,
+    "daily_change_percent": -1.69,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,16 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.6647,
-      "acc_net_value": 1.6647,
-      "daily_change_percent": -1.43,
-      "week_change": 1.38,
-      "month_change": 6.3,
+      "net_value": 1.6079,
+      "acc_net_value": 1.6079,
+      "daily_change_percent": -3.41,
+      "week_change": -0.3,
+      "month_change": 4.94,
       "nav_history": [
-        {
-          "date": "451",
-          "value": 1.6457
-        },
         {
           "date": "452",
           "value": 1.6965
@@ -500,6 +496,10 @@
         {
           "date": "570",
           "value": 1.6647
+        },
+        {
+          "date": "571",
+          "value": 1.6079
         }
       ]
     },
@@ -507,16 +507,12 @@
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
       "type": "otc",
-      "net_value": 0.6214,
-      "acc_net_value": 0.6214,
-      "daily_change_percent": -0.37,
-      "week_change": -3.18,
-      "month_change": -5.06,
+      "net_value": 0.6233,
+      "acc_net_value": 0.6233,
+      "daily_change_percent": 0.31,
+      "week_change": 0.52,
+      "month_change": -3.62,
       "nav_history": [
-        {
-          "date": "1127",
-          "value": 0.6777
-        },
         {
           "date": "1128",
           "value": 0.6911
@@ -992,6 +988,10 @@
         {
           "date": "1246",
           "value": 0.6214
+        },
+        {
+          "date": "1247",
+          "value": 0.6233
         }
       ]
     },
@@ -999,16 +999,12 @@
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
       "type": "otc",
-      "net_value": 0.8321,
-      "acc_net_value": 0.8321,
-      "daily_change_percent": -0.56,
-      "week_change": -3.45,
-      "month_change": -1.64,
+      "net_value": 0.8332,
+      "acc_net_value": 0.8332,
+      "daily_change_percent": 0.13,
+      "week_change": -3.42,
+      "month_change": -4.36,
       "nav_history": [
-        {
-          "date": "1709",
-          "value": 0.9572
-        },
         {
           "date": "1710",
           "value": 0.9543
@@ -1484,6 +1480,10 @@
         {
           "date": "1828",
           "value": 0.8321
+        },
+        {
+          "date": "1829",
+          "value": 0.8332
         }
       ]
     },
