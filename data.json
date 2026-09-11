@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-09-10 14:02:20",
+  "update_time": "2026-09-11 14:01:31",
   "summary": {
-    "total_value": 2981.9,
-    "daily_change": -50.6,
-    "daily_change_percent": -1.7,
+    "total_value": 2892.0,
+    "daily_change": -41.52,
+    "daily_change_percent": -1.44,
     "total_return": 0,
     "total_return_percent": 0,
     "fund_count": 6,
@@ -15,20 +15,12 @@
       "code": "021031",
       "name": "天弘中证红利低波100联接C",
       "type": "otc",
-      "net_value": 1.5995,
-      "acc_net_value": 1.5995,
-      "daily_change_percent": -2.0,
-      "week_change": 0.1,
-      "month_change": -1.62,
+      "net_value": 1.5264,
+      "acc_net_value": 1.5264,
+      "daily_change_percent": -1.64,
+      "week_change": -7.51,
+      "month_change": -5.84,
       "nav_history": [
-        {
-          "date": "459",
-          "value": 1.6537
-        },
-        {
-          "date": "460",
-          "value": 1.6278
-        },
         {
           "date": "461",
           "value": 1.5707
@@ -500,6 +492,14 @@
         {
           "date": "578",
           "value": 1.5995
+        },
+        {
+          "date": "579",
+          "value": 1.5518
+        },
+        {
+          "date": "580",
+          "value": 1.5264
         }
       ]
     },
@@ -507,16 +507,12 @@
       "code": "012349",
       "name": "天弘中证光伏产业指数C",
       "type": "otc",
-      "net_value": 0.5854,
-      "acc_net_value": 0.5854,
-      "daily_change_percent": -1.94,
-      "week_change": -3.06,
-      "month_change": -9.87,
+      "net_value": 0.584,
+      "acc_net_value": 0.584,
+      "daily_change_percent": -0.24,
+      "week_change": -5.27,
+      "month_change": -9.2,
       "nav_history": [
-        {
-          "date": "1136",
-          "value": 0.6651
-        },
         {
           "date": "1137",
           "value": 0.6456
@@ -992,6 +988,10 @@
         {
           "date": "1255",
           "value": 0.5854
+        },
+        {
+          "date": "1256",
+          "value": 0.584
         }
       ]
     },
@@ -999,16 +999,12 @@
       "code": "006328",
       "name": "易方达中概互联网ETF联接C",
       "type": "otc",
-      "net_value": 0.797,
-      "acc_net_value": 0.797,
-      "daily_change_percent": -0.91,
-      "week_change": -1.8,
-      "month_change": -11.87,
+      "net_value": 0.7816,
+      "acc_net_value": 0.7816,
+      "daily_change_percent": -1.93,
+      "week_change": -2.12,
+      "month_change": -12.16,
       "nav_history": [
-        {
-          "date": "1718",
-          "value": 0.953
-        },
         {
           "date": "1719",
           "value": 0.9238
@@ -1484,6 +1480,10 @@
         {
           "date": "1837",
           "value": 0.797
+        },
+        {
+          "date": "1838",
+          "value": 0.7816
         }
       ]
     },
@@ -1497,10 +1497,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-03-20",
-          "value": 1.483
-        },
         {
           "date": "2026-03-23",
           "value": 1.41
@@ -1976,6 +1972,10 @@
         {
           "date": "2026-09-10",
           "value": 1.394
+        },
+        {
+          "date": "2026-09-11",
+          "value": 1.369
         }
       ]
     },
@@ -1989,10 +1989,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-03-20",
-          "value": 0.735
-        },
         {
           "date": "2026-03-23",
           "value": 0.707
@@ -2468,6 +2464,10 @@
         {
           "date": "2026-09-10",
           "value": 0.641
+        },
+        {
+          "date": "2026-09-11",
+          "value": 0.641
         }
       ]
     },
@@ -2481,10 +2481,6 @@
       "week_change": -100.0,
       "month_change": -100.0,
       "nav_history": [
-        {
-          "date": "2026-03-20",
-          "value": 1.218
-        },
         {
           "date": "2026-03-23",
           "value": 1.175
@@ -2960,6 +2956,10 @@
         {
           "date": "2026-09-10",
           "value": 1.01
+        },
+        {
+          "date": "2026-09-11",
+          "value": 1.015
         }
       ]
     }
